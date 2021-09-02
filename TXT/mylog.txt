@@ -3,3 +3,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 5 L04 GitHub Pages related
