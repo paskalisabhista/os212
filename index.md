@@ -8,5 +8,5 @@ This my repository for Operatibg System 2021-2.
 ## Table Example
 Also, you can visit my:
 <br>
-| [GitHub](https://github.com/paskalisabhista) | [LOG]({{ site.baseurl }}/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}) |
+| [GitHub](https://github.com/paskalisabhista) | [LOG]({{ site.baseurl }}/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}/LINKS/) |
 <br>
