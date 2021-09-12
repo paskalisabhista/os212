@@ -2,7 +2,7 @@
 ---
 
 <br>
-This my repository for Operating System 2021-2.
+This is my repository for Operating System 2021-2.
 
 <br>
 ## Table Example
