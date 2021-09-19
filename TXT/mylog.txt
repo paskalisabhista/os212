@@ -9,4 +9,10 @@ ZCZC W01 5 L05 Quiz related
 ZCZC W01 60 L02 ZOOM meetings related
 ZCZC W01 20 L11 Assignment #01 (VirtualBox Guest Preparation)
 ZCZC W02 20 L05 Quiz WEEK 01 (quiz 1&2)
-ZCZC W02 100 ZOOM meetings related
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 80 L02 ZOOM meetings related
+ZCZC W02 30 L09 Watch Cyber Security Introduction part 1
+ZCZC W02 30 L09 Generate/listing GnuPG keys
+ZCZC W02 10 L09 Importing ospubkey.txt key
+ZCZC W02 10 L09 Signing Operating System public key
+ZCZC W02 10 L09 Export my public key to "TXT/mypubkey.txt"
