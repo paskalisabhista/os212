@@ -15,4 +15,5 @@ ZCZC W02 30 L09 Watch Cyber Security Introduction part 1
 ZCZC W02 30 L09 Generate/listing GnuPG keys
 ZCZC W02 10 L09 Importing ospubkey.txt key
 ZCZC W02 10 L09 Signing Operating System public key
-ZCZC W02 10 L09 Export my public key to "TXT/mypubkey.txt"
+ZCZC W02 10 L09 Export my public key to "TXT/mypubkey.txt
+ZCZC W02 30 L09 Write and run myscript.sh
