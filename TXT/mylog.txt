@@ -17,3 +17,12 @@ ZCZC W02 10 L09 Importing ospubkey.txt key
 ZCZC W02 10 L09 Signing Operating System public key
 ZCZC W02 10 L09 Export my public key to "TXT/mypubkey.txt
 ZCZC W02 30 L09 Write and run myscript.sh
+ZCZC W03 20 L05 Quiz WEEK 02 (quiz 1&2)
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03 80 L02 ZOOM meetings related
+ZCZC W03 20 L09 Create ".bash_aliases" file
+ZCZC W03 30 L09 Create/add an extra virtual disk
+ZCZC W03 10 L09 Updating my bookmark links in "LINKS/"
+ZCZC W03 10 L09 Updating myrank.txt
+ZCZC W03 30 L09 Reading ch13 & ch14
+ZCZC W03 20 L06 Reading other references about Linux file system
