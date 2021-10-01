@@ -26,3 +26,11 @@ ZCZC W03 10 L09 Updating my bookmark links in "LINKS/"
 ZCZC W03 10 L09 Updating myrank.txt
 ZCZC W03 30 L09 Reading ch13 & ch14
 ZCZC W03 20 L06 Reading other references about Linux file system
+ZCZC W04 20 L05 Quiz WEEK 03 (quiz 1&2)
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 110 L02 ZOOM meetings related
+ZCZC W04 30 L09 Installing package 1 & 2 for week 04 assignments
+ZCZC W04 20 L09 Fetch and extract "WEEK04.tar.bz2.asc"
+ZCZC W04 15 L06 Find and read some references so can be listed on links in "LINKS/"
+ZCZC W04 5 L09 Updating my bookmark links in "LINKS/"
+ZCZC W04 10 L09 Updating myrank.txt
