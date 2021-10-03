@@ -34,3 +34,5 @@ ZCZC W04 20 L09 Fetch and extract "WEEK04.tar.bz2.asc"
 ZCZC W04 15 L06 Find and read some references so can be listed on links in "LINKS/"
 ZCZC W04 5 L09 Updating my bookmark links in "LINKS/"
 ZCZC W04 10 L09 Updating myrank.txt
+ZCZC W04 60 L09 Trying week 04 demos
+ZCZC W04 30 L09 Reading ch9
