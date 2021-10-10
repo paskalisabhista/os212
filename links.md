@@ -15,3 +15,6 @@ You may need another reference about files and the file system of Linux.
 
 4. [C Programming: pointer, type, and examples](https://www.guru99.com/c-pointers.html)<br>
 Basic explanation about pointer in C and also some examples.
+
+5. [Big endian vs Little endian](https://levelup.gitconnected.com/little-endian-vs-big-endian-eb2a2c3a9135)<br>
+See differences between big endian and little endian order of bytes in computer memory.
