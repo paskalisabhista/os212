@@ -36,3 +36,14 @@ ZCZC W04 5 L09 Updating my bookmark links in "LINKS/"
 ZCZC W04 10 L09 Updating myrank.txt
 ZCZC W04 60 L09 Trying week 04 demos
 ZCZC W04 30 L09 Reading ch9
+ZCZC W05 20 L05 Quiz WEEK 04 (quiz 1&2)
+ZCZC W05 10 L02 ZOOM meetings related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 30 L09 Trying to boot my Virtual Guest with 512, 256 MB RAM
+ZCZC W05 30 L09 Fetch and Extrack "WEEK05.tar.bz2.asc"
+ZCZC W05 60 L09 Modifying mymemory2.c
+ZCZC W05 5 L09 Bash "000-README.txt"
+ZCZC W05 5 L09 Move WEEK05-MEMORY.txt to RESULT/W05
+ZCZC W05 20 L09 Updating my bookmark links in "LINKS/"
+ZCZC W05 30 L09 Try previous MidTem Problems
+ZCZC W05 20 L09 Updating myrank.txt
