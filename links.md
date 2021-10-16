@@ -18,3 +18,6 @@ Basic explanation about pointer in C and also some examples.
 
 5. [Big endian vs Little endian](https://levelup.gitconnected.com/little-endian-vs-big-endian-eb2a2c3a9135)<br>
 See differences between big endian and little endian order of bytes in computer memory.
+
+6. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Learn about concept of child/parent in C.
