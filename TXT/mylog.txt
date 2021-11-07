@@ -54,3 +54,13 @@ ZCZC W06 5 L09 Bash "000-README.txt"
 ZCZC W06 5 L09 Move WEEK06-FORK.txt and WEEK06-SHARE.bin to RESULT/W06
 ZCZC W06 15 L09 Updating my bookmark links in "LINKS/"
 ZCZC W06 20 L09 Updating myrank.txt
+ZCZC W07 20 L09 Fetch and Extract "WEEK07.tar.bz2.asc"
+ZCZC W07 5 L09 Bash "000-README.txt"
+ZCZC W07 5 L09 SSH into os1.cs.ui.ac.id and create my own folder
+ZCZC W07 5 L09 Copy WEEK07-SHARE.bin to os1.cs.ui.ac.id
+ZCZC W07 5 L09 Run "insertShareMemory"
+ZCZC W07 5 L09 Copy WEEK07-REPORT2.txt from os1.cs.ui.ac.id
+ZCZC W07 10 L09 Move all result to "$HOME/RESULT/W07" directory
+ZCZC W07 20 L09 Trying week 07 demos
+ZCZC W07 10 L09 Updating my bookmark links in "LINKS/"
+ZCZC W07 10 L09 Updating my myrank.txt
