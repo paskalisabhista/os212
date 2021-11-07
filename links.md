@@ -21,3 +21,11 @@ See differences between big endian and little endian order of bytes in computer 
 
 6. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Learn about concept of child/parent in C.
+
+7. [Semaphores in C languange](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
+Learn how to use POSIX semaphores in C language which is very useful in process synchronization and multithreading.
+
+8. [Lock and key concept for Linux thread synchronization](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
+Lock and key or mutex is another technique to avoid race condition in multithreading proccess.
+
+
